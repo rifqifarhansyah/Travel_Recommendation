@@ -1,0 +1,502 @@
+[
+    {
+        "sentence": "They flew from San Antonio to Cape Town last night.",
+        "from_city": "San Antonio",
+        "to_city": "Cape Town"
+    },
+    {
+        "sentence": "She is taking a ferry from Cairo to Moscow.",
+        "from_city": "Cairo",
+        "to_city": "Moscow"
+    },
+    {
+        "sentence": "Can you arrange a bus from Bangkok to Houston?",
+        "from_city": "Bangkok",
+        "to_city": "Houston"
+    },
+    {
+        "sentence": "Could you tell me how to get from Barcelona to Berlin?",
+        "from_city": "Barcelona",
+        "to_city": "Berlin"
+    },
+    {
+        "sentence": "I'm driving from Sydney to Buenos Aires tomorrow.",
+        "from_city": "Sydney",
+        "to_city": "Buenos Aires"
+    },
+    {
+        "sentence": "She is taking a ferry from Dallas to Buenos Aires.",
+        "from_city": "Dallas",
+        "to_city": "Buenos Aires"
+    },
+    {
+        "sentence": "He frequently commutes from Singapore to Chicago for work.",
+        "from_city": "Singapore",
+        "to_city": "Chicago"
+    },
+    {
+        "sentence": "He frequently commutes from London to Dubai for work.",
+        "from_city": "London",
+        "to_city": "Dubai"
+    },
+    {
+        "sentence": "I'm driving from San Diego to Singapore tomorrow.",
+        "from_city": "San Diego",
+        "to_city": "Singapore"
+    },
+    {
+        "sentence": "He drove his car from Lagos to Los Angeles in six hours.",
+        "from_city": "Lagos",
+        "to_city": "Los Angeles"
+    },
+    {
+        "sentence": "The train from Lima to New York is always on time.",
+        "from_city": "Lima",
+        "to_city": "New York"
+    },
+    {
+        "sentence": "He drove his car from Philadelphia to Istanbul in six hours.",
+        "from_city": "Philadelphia",
+        "to_city": "Istanbul"
+    },
+    {
+        "sentence": "My journey starts from Barcelona to Lima early morning.",
+        "from_city": "Barcelona",
+        "to_city": "Lima"
+    },
+    {
+        "sentence": "We traveled from Lima to Rome during our vacation.",
+        "from_city": "Lima",
+        "to_city": "Rome"
+    },
+    {
+        "sentence": "My journey starts from Moscow to Jakarta early morning.",
+        "from_city": "Moscow",
+        "to_city": "Jakarta"
+    },
+    {
+        "sentence": "My journey starts from Toronto to Kuala Lumpur early morning.",
+        "from_city": "Toronto",
+        "to_city": "Kuala Lumpur"
+    },
+    {
+        "sentence": "I need directions from Philadelphia to Baghdad.",
+        "from_city": "Philadelphia",
+        "to_city": "Baghdad"
+    },
+    {
+        "sentence": "Can you arrange a bus from Houston to Singapore?",
+        "from_city": "Houston",
+        "to_city": "Singapore"
+    },
+    {
+        "sentence": "She is planning to move from Dubai to Moscow next month.",
+        "from_city": "Dubai",
+        "to_city": "Moscow"
+    },
+    {
+        "sentence": "Can you arrange a bus from Dubai to Houston?",
+        "from_city": "Dubai",
+        "to_city": "Houston"
+    },
+    {
+        "sentence": "We need tickets from Toronto to Seoul for the weekend.",
+        "from_city": "Toronto",
+        "to_city": "Seoul"
+    },
+    {
+        "sentence": "He drove his car from Chicago to Rome in six hours.",
+        "from_city": "Chicago",
+        "to_city": "Rome"
+    },
+    {
+        "sentence": "She is planning to move from Bangkok to Cape Town next month.",
+        "from_city": "Bangkok",
+        "to_city": "Cape Town"
+    },
+    {
+        "sentence": "She is taking a ferry from Kuala Lumpur to Osaka.",
+        "from_city": "Kuala Lumpur",
+        "to_city": "Osaka"
+    },
+    {
+        "sentence": "My journey starts from Istanbul to Philadelphia early morning.",
+        "from_city": "Istanbul",
+        "to_city": "Philadelphia"
+    },
+    {
+        "sentence": "Can you book a flight from Buenos Aires to Bangkok?",
+        "from_city": "Buenos Aires",
+        "to_city": "Bangkok"
+    },
+    {
+        "sentence": "He drove his car from Moscow to Tokyo in six hours.",
+        "from_city": "Moscow",
+        "to_city": "Tokyo"
+    },
+    {
+        "sentence": "The train from Hong Kong to Singapore is always on time.",
+        "from_city": "Hong Kong",
+        "to_city": "Singapore"
+    },
+    {
+        "sentence": "I need directions from San Jose to San Antonio.",
+        "from_city": "San Jose",
+        "to_city": "San Antonio"
+    },
+    {
+        "sentence": "The train from Buenos Aires to Cairo is always on time.",
+        "from_city": "Buenos Aires",
+        "to_city": "Cairo"
+    },
+    {
+        "sentence": "My journey starts from Istanbul to Dubai early morning.",
+        "from_city": "Istanbul",
+        "to_city": "Dubai"
+    },
+    {
+        "sentence": "We traveled from Santiago to Barcelona during our vacation.",
+        "from_city": "Santiago",
+        "to_city": "Barcelona"
+    },
+    {
+        "sentence": "Could you tell me how to get from Bangkok to Houston?",
+        "from_city": "Bangkok",
+        "to_city": "Houston"
+    },
+    {
+        "sentence": "She is planning to move from Bangkok to San Antonio next month.",
+        "from_city": "Bangkok",
+        "to_city": "San Antonio"
+    },
+    {
+        "sentence": "I want to travel from San Antonio to Chicago.",
+        "from_city": "San Antonio",
+        "to_city": "Chicago"
+    },
+    {
+        "sentence": "They flew from New York to Dubai last night.",
+        "from_city": "New York",
+        "to_city": "Dubai"
+    },
+    {
+        "sentence": "Can you arrange a bus from Cape Town to Lima?",
+        "from_city": "Cape Town",
+        "to_city": "Lima"
+    },
+    {
+        "sentence": "I need directions from Seoul to Lima.",
+        "from_city": "Seoul",
+        "to_city": "Lima"
+    },
+    {
+        "sentence": "They flew from Cairo to Bangkok last night.",
+        "from_city": "Cairo",
+        "to_city": "Bangkok"
+    },
+    {
+        "sentence": "They flew from Cairo to Madrid last night.",
+        "from_city": "Cairo",
+        "to_city": "Madrid"
+    },
+    {
+        "sentence": "Could you tell me how to get from Jakarta to Bangkok?",
+        "from_city": "Jakarta",
+        "to_city": "Bangkok"
+    },
+    {
+        "sentence": "They flew from Dubai to Dallas last night.",
+        "from_city": "Dubai",
+        "to_city": "Dallas"
+    },
+    {
+        "sentence": "He drove his car from Osaka to Mumbai in six hours.",
+        "from_city": "Osaka",
+        "to_city": "Mumbai"
+    },
+    {
+        "sentence": "She is planning to move from Dubai to Rome next month.",
+        "from_city": "Dubai",
+        "to_city": "Rome"
+    },
+    {
+        "sentence": "They flew from Philadelphia to Los Angeles last night.",
+        "from_city": "Philadelphia",
+        "to_city": "Los Angeles"
+    },
+    {
+        "sentence": "We traveled from Bangkok to Mumbai during our vacation.",
+        "from_city": "Bangkok",
+        "to_city": "Mumbai"
+    },
+    {
+        "sentence": "He drove his car from London to Lima in six hours.",
+        "from_city": "London",
+        "to_city": "Lima"
+    },
+    {
+        "sentence": "Can you book a flight from Los Angeles to Moscow?",
+        "from_city": "Los Angeles",
+        "to_city": "Moscow"
+    },
+    {
+        "sentence": "My journey starts from Buenos Aires to Baghdad early morning.",
+        "from_city": "Buenos Aires",
+        "to_city": "Baghdad"
+    },
+    {
+        "sentence": "Can you book a flight from Toronto to Hong Kong?",
+        "from_city": "Toronto",
+        "to_city": "Hong Kong"
+    },
+    {
+        "sentence": "She is planning to move from Sydney to Barcelona next month.",
+        "from_city": "Sydney",
+        "to_city": "Barcelona"
+    },
+    {
+        "sentence": "I need directions from London to Philadelphia.",
+        "from_city": "London",
+        "to_city": "Philadelphia"
+    },
+    {
+        "sentence": "We traveled from New York to Buenos Aires during our vacation.",
+        "from_city": "New York",
+        "to_city": "Buenos Aires"
+    },
+    {
+        "sentence": "He frequently commutes from Hong Kong to San Jose for work.",
+        "from_city": "Hong Kong",
+        "to_city": "San Jose"
+    },
+    {
+        "sentence": "I want to travel from Buenos Aires to Istanbul.",
+        "from_city": "Buenos Aires",
+        "to_city": "Istanbul"
+    },
+    {
+        "sentence": "The train from London to Los Angeles is always on time.",
+        "from_city": "London",
+        "to_city": "Los Angeles"
+    },
+    {
+        "sentence": "He frequently commutes from Hong Kong to Jakarta for work.",
+        "from_city": "Hong Kong",
+        "to_city": "Jakarta"
+    },
+    {
+        "sentence": "They flew from Chicago to Rome last night.",
+        "from_city": "Chicago",
+        "to_city": "Rome"
+    },
+    {
+        "sentence": "I need directions from Phoenix to Lima.",
+        "from_city": "Phoenix",
+        "to_city": "Lima"
+    },
+    {
+        "sentence": "I need directions from Hong Kong to Moscow.",
+        "from_city": "Hong Kong",
+        "to_city": "Moscow"
+    },
+    {
+        "sentence": "I want to travel from Dallas to Barcelona.",
+        "from_city": "Dallas",
+        "to_city": "Barcelona"
+    },
+    {
+        "sentence": "The train from Bangkok to Philadelphia is always on time.",
+        "from_city": "Bangkok",
+        "to_city": "Philadelphia"
+    },
+    {
+        "sentence": "They flew from London to Mumbai last night.",
+        "from_city": "London",
+        "to_city": "Mumbai"
+    },
+    {
+        "sentence": "I need directions from Bangkok to Sydney.",
+        "from_city": "Bangkok",
+        "to_city": "Sydney"
+    },
+    {
+        "sentence": "My journey starts from San Antonio to San Jose early morning.",
+        "from_city": "San Antonio",
+        "to_city": "San Jose"
+    },
+    {
+        "sentence": "I need directions from Tokyo to Karachi.",
+        "from_city": "Tokyo",
+        "to_city": "Karachi"
+    },
+    {
+        "sentence": "I'm driving from Santiago to Lagos tomorrow.",
+        "from_city": "Santiago",
+        "to_city": "Lagos"
+    },
+    {
+        "sentence": "He drove his car from Philadelphia to Houston in six hours.",
+        "from_city": "Philadelphia",
+        "to_city": "Houston"
+    },
+    {
+        "sentence": "We traveled from San Diego to Melbourne during our vacation.",
+        "from_city": "San Diego",
+        "to_city": "Melbourne"
+    },
+    {
+        "sentence": "I'm driving from Cairo to Dubai tomorrow.",
+        "from_city": "Cairo",
+        "to_city": "Dubai"
+    },
+    {
+        "sentence": "They flew from Hong Kong to Los Angeles last night.",
+        "from_city": "Hong Kong",
+        "to_city": "Los Angeles"
+    },
+    {
+        "sentence": "He drove his car from Jakarta to Moscow in six hours.",
+        "from_city": "Jakarta",
+        "to_city": "Moscow"
+    },
+    {
+        "sentence": "I need directions from San Diego to Hong Kong.",
+        "from_city": "San Diego",
+        "to_city": "Hong Kong"
+    },
+    {
+        "sentence": "I want to travel from Jakarta to Dubai.",
+        "from_city": "Jakarta",
+        "to_city": "Dubai"
+    },
+    {
+        "sentence": "I'm driving from Dallas to Bangkok tomorrow.",
+        "from_city": "Dallas",
+        "to_city": "Bangkok"
+    },
+    {
+        "sentence": "She is taking a ferry from Philadelphia to San Diego.",
+        "from_city": "Philadelphia",
+        "to_city": "San Diego"
+    },
+    {
+        "sentence": "I need directions from Singapore to Mumbai.",
+        "from_city": "Singapore",
+        "to_city": "Mumbai"
+    },
+    {
+        "sentence": "Can you arrange a bus from Lima to Bangkok?",
+        "from_city": "Lima",
+        "to_city": "Bangkok"
+    },
+    {
+        "sentence": "We need tickets from San Diego to New York for the weekend.",
+        "from_city": "San Diego",
+        "to_city": "New York"
+    },
+    {
+        "sentence": "We traveled from Hong Kong to Barcelona during our vacation.",
+        "from_city": "Hong Kong",
+        "to_city": "Barcelona"
+    },
+    {
+        "sentence": "He frequently commutes from Berlin to Philadelphia for work.",
+        "from_city": "Berlin",
+        "to_city": "Philadelphia"
+    },
+    {
+        "sentence": "Could you tell me how to get from Cape Town to Dallas?",
+        "from_city": "Cape Town",
+        "to_city": "Dallas"
+    },
+    {
+        "sentence": "She is taking a ferry from Lima to Moscow.",
+        "from_city": "Lima",
+        "to_city": "Moscow"
+    },
+    {
+        "sentence": "Can you arrange a bus from Cape Town to Houston?",
+        "from_city": "Cape Town",
+        "to_city": "Houston"
+    },
+    {
+        "sentence": "He frequently commutes from Baghdad to London for work.",
+        "from_city": "Baghdad",
+        "to_city": "London"
+    },
+    {
+        "sentence": "They flew from Paris to Tokyo last night.",
+        "from_city": "Paris",
+        "to_city": "Tokyo"
+    },
+    {
+        "sentence": "I'm driving from Sydney to Tokyo tomorrow.",
+        "from_city": "Sydney",
+        "to_city": "Tokyo"
+    },
+    {
+        "sentence": "We need tickets from Rio de Janeiro to Osaka for the weekend.",
+        "from_city": "Rio de Janeiro",
+        "to_city": "Osaka"
+    },
+    {
+        "sentence": "I need directions from Madrid to Istanbul.",
+        "from_city": "Madrid",
+        "to_city": "Istanbul"
+    },
+    {
+        "sentence": "Could you tell me how to get from Madrid to Singapore?",
+        "from_city": "Madrid",
+        "to_city": "Singapore"
+    },
+    {
+        "sentence": "We traveled from Hong Kong to Dubai during our vacation.",
+        "from_city": "Hong Kong",
+        "to_city": "Dubai"
+    },
+    {
+        "sentence": "She is planning to move from Seoul to Dallas next month.",
+        "from_city": "Seoul",
+        "to_city": "Dallas"
+    },
+    {
+        "sentence": "Can you arrange a bus from Chicago to Lima?",
+        "from_city": "Chicago",
+        "to_city": "Lima"
+    },
+    {
+        "sentence": "My journey starts from Dubai to Istanbul early morning.",
+        "from_city": "Dubai",
+        "to_city": "Istanbul"
+    },
+    {
+        "sentence": "I want to travel from Hong Kong to Dallas.",
+        "from_city": "Hong Kong",
+        "to_city": "Dallas"
+    },
+    {
+        "sentence": "They flew from London to Baghdad last night.",
+        "from_city": "London",
+        "to_city": "Baghdad"
+    },
+    {
+        "sentence": "Could you tell me how to get from Berlin to Cairo?",
+        "from_city": "Berlin",
+        "to_city": "Cairo"
+    },
+    {
+        "sentence": "She is taking a ferry from Paris to Lima.",
+        "from_city": "Paris",
+        "to_city": "Lima"
+    },
+    {
+        "sentence": "He drove his car from Bangkok to Karachi in six hours.",
+        "from_city": "Bangkok",
+        "to_city": "Karachi"
+    },
+    {
+        "sentence": "Can you book a flight from Moscow to Paris?",
+        "from_city": "Moscow",
+        "to_city": "Paris"
+    }
+]
