@@ -9,10 +9,7 @@ from peft import PeftModel
 from transformers import BitsAndBytesConfig
 
 # Suppress specific UserWarnings related to spaCy model versions
-warnings.filterwarnings("ignore", category=UserWarning, module="spacy")
-warnings.filterwarnings("ignore", message="Setting `pad_token_id`")
-warnings.filterwarnings("ignore", message="Torch was not compiled with flash attention")
-
+warnings.filterwarnings("ignore", category=UserWarning)
 model_name = "meta-llama/Llama-3.2-3B-Instruct"
 adapter_name = "./QA/qna-model/llama-3B-adapter"
 
@@ -65,6 +62,7 @@ def ner(user_input):
     
     print("FROM: ", res["from"])
     print("TO: ", res["to"])
+    print()
     
     # Validate that both 'from' and 'to' locations are identified
     if len(res) != 2:
@@ -102,13 +100,10 @@ def qna(ner_res):
     return answer
 
 def main():
-    """
-    Main CLI application loop for travel assistant.
-    Continuously prompts user for input until they choose to exit.
-    """
     print("Welcome to the Travel Assistant CLI!")
     print("Enter a travel route query (e.g., 'How to get from New York to Los Angeles')")
     print("Type 'exit' or press Ctrl+C to quit the application.")
+    print("=============================================================================")
     
     while True:
         try:
@@ -126,7 +121,7 @@ def main():
                 continue
             
             # Perform Named Entity Recognition
-            print(user_input)
+            print()
             ner_res = ner(user_input)
             
             # If NER fails, continue the loop
